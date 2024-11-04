@@ -1,0 +1,2 @@
+ALTER TABLE usuarios
+    ALTER COLUMN lojista TYPE VARCHAR(255);
